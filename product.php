@@ -1,4 +1,4 @@
-<!--                                                 141 line -->   
+<!-- 141 line -->   
 <div class="row col mt-3 deliverable_type <?= (isset($product_details[0]['type']) && $product_details[0]['type'] == 'digital_product') ? 'd-none' : '' ?>">
                                                 <div class="col-md-6">
                                                     <label for="zipcode" class="col-form-label">Deliverable Type</label>
